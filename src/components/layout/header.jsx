@@ -1,8 +1,9 @@
 import React from "react";
 import { AppBar, Box, Divider, Drawer, IconButton, Toolbar, Typography } from '@mui/material'
 import NoFoodSharpIcon from '@mui/icons-material/NoFoodSharp';
-import RamenDiningSharpIcon from '@mui/icons-material/RamenDiningSharp';
-import { Link, NavLink } from "react-router-dom";
+/* import RamenDiningSharpIcon from '@mui/icons-material/RamenDiningSharp';
+ */
+import { NavLink } from "react-router-dom";
 import '../../styles/HeaderStyles.css';
 import MenuIcon from '@mui/icons-material/Menu';
 import { useState } from "react";
@@ -45,7 +46,7 @@ export function Header(){
                         </IconButton>
 
                         <Typography color={'goldenrod'} variant="h6" component="div" sx={{flexGrow:1}}>
-                           <img src={Logo1} height='70' width='250' />
+                           <img src={Logo1} alt="Restaurant logo" height='70' width='250' />
                         </Typography>
                         <Box sx={{display:{xs:'none',sm:'block'}}}>
                             <ul className="navigation-menu">
