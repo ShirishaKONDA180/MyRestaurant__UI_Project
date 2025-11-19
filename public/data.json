@@ -1,0 +1,41 @@
+
+[
+    {
+        "img_src":"chhola.jpg",
+        "description":"This is the delicious indian dish,Very spicy and good taste.its a North indian dish",
+        "name":"chhola",
+        "Price":"10$"
+
+    },
+    {
+        "img_src":"dosa.jpg",
+        "description":"This is the delicious indian breakfast,Very spicy and good taste.",
+        "name":"Dosa",
+        "Price":"15$"
+    },
+    {
+        "img_src":"gujrati.jpeg",
+        "description":"This is the delicious indian dish,Very spicy and good taste.its a North indian dish",
+        "name":"gujrati thali",
+        "Price":"20$"
+    },
+    {
+        "img_src":"idli.jpg",
+        "description":"This is the delicious indian dish,Very spicy and good taste.its a North indian dish",
+        "name":"idli",
+        "Price":"15$"
+    },
+    {
+        "img_src":"masala.jpg",
+        "description":"This is the delicious indian dish,Very spicy and good taste.its a North indian dish",
+        "name":"masala dosa",
+        "Price":"12$"
+    },
+    {
+        "img_src":"paneer.jpg",
+        "description":"This is the delicious indian dish,Very spicy and good taste.its a North indian dish",
+        "name":"paneer",
+        "Price":"18$"
+    }
+
+]

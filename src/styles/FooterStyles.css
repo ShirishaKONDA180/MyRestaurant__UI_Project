@@ -1,0 +1,11 @@
+
+.footer-icons{
+    margin:0 10px;
+    font-size: 30px;
+    cursor:pointer;
+    transition: all 400ms;
+}
+.footer-icons:hover{
+    color:goldenrod;
+    transform:translateX(5px);
+}

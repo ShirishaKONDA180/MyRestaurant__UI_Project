@@ -1,0 +1,17 @@
+
+
+.about h4{
+    font-weight: bold;
+    margin: 1.5rem 0;
+}
+.about p{
+    text-align: justify;
+}
+
+@media only screen and (max-width:600px) {
+    .about h4{
+        margin-top: 0;
+        font-size: 30px;
+    }
+    
+}
