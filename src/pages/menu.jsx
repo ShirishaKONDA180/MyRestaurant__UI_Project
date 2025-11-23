@@ -2,7 +2,7 @@ import React, { useEffect } from 'react'
 import { Layout } from '../components/layout/layout'
 import axios from 'axios'
 import { useState } from 'react'
-import { Box, Card, CardActionArea, CardContent, CardMedia, Typography } from '@mui/material';
+import { Box, Card, CardActionArea, CardContent, Typography } from '@mui/material';
 
 export function Menu(){
 

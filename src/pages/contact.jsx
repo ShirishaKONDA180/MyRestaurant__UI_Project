@@ -2,8 +2,8 @@ import React from 'react'
 import { Layout } from '../components/layout/layout'
 import { Box, Typography} from '@mui/material'
 import '../styles/ConatctStyles.css'
-import { Height } from '@mui/icons-material'
-
+/* import { Height } from '@mui/icons-material'
+ */
 export function Contact(){
   return (
     <Layout sx={{height:'90vh'}}>
